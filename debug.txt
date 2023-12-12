@@ -1,0 +1,4 @@
+choc = 1
+prev = 1
+choc = 1
+prev = 0
